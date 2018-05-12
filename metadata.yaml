@@ -1,0 +1,28 @@
+_repo: H-lika--13-Memoire-d-un-vieux-ma-tre-d--cole_13149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: DeGuise, Charles
+    birthdate: 1827
+    deathdate: 1884
+    gutenberg_agent_id: '4804'
+    url: http://www.gutenberg.org/2009/agents/4804
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13149'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+title: "Hélika\r\nMemoire d'un vieux maître d'école"
+url: http://www.gutenberg.org/ebooks/13149
